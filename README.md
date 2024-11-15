@@ -226,7 +226,9 @@ body {
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-11-16 005708.png>)
+
 ![alt text](<Screenshot 2024-11-16 005842.png>)
+
 ![alt text](<Screenshot 2024-11-16 005941.png>)
 
 ## RESULT:
